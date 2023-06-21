@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireExtinguisher
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+    - {fileID: 102900000, guid: 8e7a08ed148d2404d93855801bc0e614, type: 3}
+    - {fileID: 2800000, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ddf428e0aace31c4abe0e4d195c3f954, type: 3}
+  - {fileID: 8887193085646799687, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: -5766750357920184929, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: -4019557588674032844, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: 4053041443618426101, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: -4606362601383480202, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: -7564435489852452157, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: 7932230095399798315, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: -2854520037396501584, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: 7706745784878887221, guid: 126ebee37a724db4c9d0baf214485eba, type: 3}
+  - {fileID: 162004743274455278, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 168048863548077801, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 1427050956480677815, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -7653232959926561536, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -203147125682949125, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 9007303066695781173, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 6882213593366293947, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -6471517237808563140, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -7371758753299405540, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 1580172224368002949, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -8039658696553037472, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 3292994921090928139, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 2783038496530631598, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 2282661256844742036, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 5114415411774244392, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 4401621366929723256, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 883477271934934002, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 3271927048279752382, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -8076176842844111978, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 7752416214913185841, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: -8916635085146578037, guid: 3e2df8d528fbff04cbe6c687e3efbaa4, type: 3}
+  - {fileID: 21300000, guid: 320a2bf5b0d41ac48a44318a9b72ca33, type: 3}
+  - {fileID: 21300000, guid: a5ba26c71c92ace4ca474af0b591a629, type: 3}
+  - {fileID: 21300000, guid: c0c3ac1a54273eb44a9a54c1ccce3a6f, type: 3}
+  - {fileID: 21300000, guid: f30e752b6b5c765429815c642efa5681, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fire Extinguisher Air
+  - Flame Sheet Image_3
+  - Flame Sheet Image_2
+  - Flame Sheet Image_1
+  - Flame Sheet Image_0
+  - Flame Sheet Image_7
+  - Flame Sheet Image_6
+  - Flame Sheet Image_5
+  - Flame Sheet Image_4
+  - Flame Sheet Image_8
+  - FireStation_13
+  - FireStation_12
+  - FireStation_11
+  - FireStation_17
+  - FireStation_16
+  - FireStation_15
+  - FireStation_14
+  - FireStation_19
+  - FireStation_18
+  - FireStation_0
+  - FireStation_1
+  - FireStation_2
+  - FireStation_3
+  - FireStation_4
+  - FireStation_5
+  - FireStation_6
+  - FireStation_7
+  - FireStation_8
+  - FireStation_9
+  - FireStation_20
+  - FireStation_21
+  - Fire Extinguisher Lock
+  - Fire Extinguisher Grip
+  - Fire Extinguisher Nozzle
+  - Fire Extinguisher Main
+  m_RenderDataMap: {}
+  m_Tag: FireExtinguisher
+  m_IsVariant: 0

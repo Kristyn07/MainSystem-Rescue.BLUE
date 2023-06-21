@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1090595037408506508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1090595037408506511}
+  - component: {fileID: 1090595037408506504}
+  - component: {fileID: 1090595037408506505}
+  m_Layer: 0
+  m_Name: Dialog Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1090595037408506511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1090595037408506508}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1090595037408506504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1090595037408506508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e699b0a1c5081f84893cd771061810e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    Name: RB Traning Officer
+    sentences:
+    - Attention, new recruits! I have been informed ahead of time of your assessment
+      test results, and all of you met the standards requirements with flying colors.
+    - Remember who you all are! You are BLUEs! Your job is to save and protect people
+      from natural disasters regardless of scope, size, and severity.
+    - You in particular are of note. You ranked with a grade of 99 in the assessment
+      test, by far the best of this batch.
+    - You all clearly have the knowledge and smarts to do what must be done. Let's
+      see if you can put it into practice!
+    - We'll start with the basics. [Player], in the field our operatives rely on
+      supplies from our first aid kits.
+    - We have the means to deliver these supplies remotely in the event that there
+      is a supply shortage in the field.
+    - Sometimes, it might be up to you and others to resupply our operatives' kits
+      in the field.
+    - 'So it is important to understand what is needed and what they need now. '
+    - 'You will also need to understand important bandaging techniques to be able
+      to tend to injured people when the time comes. '
+    - Given you're still a rookie, we'll start you and the others off with basic
+      bandaging techniques and improve from there.
+    - Rescue.BLUE is known for its prestige as a search-and-rescue operation, and
+      thus we have a reputation to uphold and maintain.
+    - If we show incompetence in our duties, our funding may be pulled and our reputation
+      will be destroyed.
+    - It is imperative that this does not happen.
+    - I've said what I needed to say. Your training begins now. Godspeed and good
+      luck, rookie.
+--- !u!114 &1090595037408506505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1090595037408506508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45fdb4024abb2434db42dc08a3facab0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OfficerName: {fileID: 0}
+  dialogueText: {fileID: 0}
+  dialogueCount: 1
+  dialogueBox: {fileID: 0}
+  DialogCollection: {fileID: 0}
+  isInStrory: 0
+  IsDone: 0
+  HasAFollowUpCutScene: 1
+  _dialogManager_Toturial: {fileID: 0}

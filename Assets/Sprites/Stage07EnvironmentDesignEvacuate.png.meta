@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 3042060059633d4448bf03baf85ed8f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9144633401947131602
+    second: Stage07EnvironmentDesignEvacuate_0
+  - first:
+      213: 705842703887412364
+    second: Stage07EnvironmentDesignEvacuate_1
+  - first:
+      213: 5904848881823205624
+    second: Stage07EnvironmentDesignEvacuate_2
+  - first:
+      213: 388294698566156343
+    second: Stage07EnvironmentDesignEvacuate_3
+  - first:
+      213: -1586700194531645535
+    second: Stage07EnvironmentDesignEvacuate_4
+  - first:
+      213: -2839764274708890594
+    second: Stage07EnvironmentDesignEvacuate_5
+  - first:
+      213: 1782823944137520800
+    second: Stage07EnvironmentDesignEvacuate_6
+  - first:
+      213: 7473737836154325265
+    second: Stage07EnvironmentDesignEvacuate_7
+  - first:
+      213: 4698358306319617048
+    second: Stage07EnvironmentDesignEvacuate_8
+  - first:
+      213: -437283297418757144
+    second: Stage07EnvironmentDesignEvacuate_9
+  - first:
+      213: -4618269556392879650
+    second: Stage07EnvironmentDesignEvacuate_10
+  - first:
+      213: -4753736646062529631
+    second: Stage07EnvironmentDesignEvacuate_11
+  - first:
+      213: -8080268841193949826
+    second: Stage07EnvironmentDesignEvacuate_12
+  - first:
+      213: -5348387606997150232
+    second: Stage07EnvironmentDesignEvacuate_13
+  - first:
+      213: 5761177551865275527
+    second: Stage07EnvironmentDesignEvacuate_14
+  - first:
+      213: -8751105138656811351
+    second: Stage07EnvironmentDesignEvacuate_15
+  - first:
+      213: 5885949651561976642
+    second: Stage07EnvironmentDesignEvacuate_16
+  - first:
+      213: -8793888578905270690
+    second: Stage07EnvironmentDesignEvacuate_17
+  - first:
+      213: 7434762958473514348
+    second: Stage07EnvironmentDesignEvacuate_18
+  - first:
+      213: -6848830098691895064
+    second: Stage07EnvironmentDesignEvacuate_19
+  - first:
+      213: -322396459229067822
+    second: Stage07EnvironmentDesignEvacuate_20
+  - first:
+      213: -3293824571490246781
+    second: Stage07EnvironmentDesignEvacuate_21
+  - first:
+      213: -1529203401246753210
+    second: Stage07EnvironmentDesignEvacuate_22
+  - first:
+      213: 3632636936384765997
+    second: Stage07EnvironmentDesignEvacuate_23
+  - first:
+      213: 6118163535850884276
+    second: Stage07EnvironmentDesignEvacuate_24
+  - first:
+      213: -4929444048902760954
+    second: Stage07EnvironmentDesignEvacuate_25
+  - first:
+      213: -3704009800007951646
+    second: Stage07EnvironmentDesignEvacuate_26
+  - first:
+      213: 8130073352922303548
+    second: Stage07EnvironmentDesignEvacuate_27
+  - first:
+      213: 1213070231201255809
+    second: Stage07EnvironmentDesignEvacuate_28
+  - first:
+      213: 8280464561514435543
+    second: Stage07EnvironmentDesignEvacuate_29
+  - first:
+      213: 1002244899677563670
+    second: Stage07EnvironmentDesignEvacuate_30
+  - first:
+      213: 1731739969309833670
+    second: Stage07EnvironmentDesignEvacuate_31
+  - first:
+      213: -7355794381049025328
+    second: Stage07EnvironmentDesignEvacuate_32
+  - first:
+      213: -7329958558860725225
+    second: Stage07EnvironmentDesignEvacuate_33
+  - first:
+      213: 7631453241855465723
+    second: Stage07EnvironmentDesignEvacuate_34
+  - first:
+      213: -8358732575644495532
+    second: Stage07EnvironmentDesignEvacuate_35
+  - first:
+      213: -2098792918083058803
+    second: Stage07EnvironmentDesignEvacuate_36
+  - first:
+      213: -962476566058659361
+    second: Stage07EnvironmentDesignEvacuate_37
+  - first:
+      213: -4394853731732591261
+    second: Stage07EnvironmentDesignEvacuate_38
+  - first:
+      213: 6182821796198312350
+    second: Stage07EnvironmentDesignEvacuate_39
+  - first:
+      213: 7432220651245547277
+    second: Stage07EnvironmentDesignEvacuate_40
+  - first:
+      213: -5392474342739996834
+    second: Stage07EnvironmentDesignEvacuate_41
+  - first:
+      213: 186053767594654379
+    second: Stage07EnvironmentDesignEvacuate_42
+  - first:
+      213: 398421562478280190
+    second: Stage07EnvironmentDesignEvacuate_43
+  - first:
+      213: -51109023107305692
+    second: Stage07EnvironmentDesignEvacuate_44
+  - first:
+      213: 5602697758856112023
+    second: Stage07EnvironmentDesignEvacuate_45
+  - first:
+      213: 6919379002519267632
+    second: Stage07EnvironmentDesignEvacuate_46
+  - first:
+      213: -6040744383545609401
+    second: Stage07EnvironmentDesignEvacuate_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3645
+        width: 299
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0b34f0a348ee70800000000000000
+      internalID: 9144633401947131602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3412
+        width: 803
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca2801338abc900800000000000000
+      internalID: 705842703887412364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_2
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3489
+        width: 591
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84f65d5cc32f150800000000000000
+      internalID: 5904848881823205624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3404
+        width: 348
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730043898ff736500800000000000000
+      internalID: 388294698566156343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_4
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 3153
+        width: 271
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e5eb6498eaf9e0800000000000000
+      internalID: -1586700194531645535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3262
+        width: 365
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb12810712798d0800000000000000
+      internalID: -2839764274708890594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3282
+        width: 273
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b06f6eecddb810800000000000000
+      internalID: 1782823944137520800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 3104
+        width: 325
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190064e6fc08b760800000000000000
+      internalID: 7473737836154325265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_8
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3156
+        width: 237
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ccfa39cfbe33140800000000000000
+      internalID: 4698358306319617048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3120
+        width: 365
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebb42768257ee9f0800000000000000
+      internalID: -437283297418757144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3122
+        width: 348
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9933e9e4c98efb0800000000000000
+      internalID: -4618269556392879650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2882
+        width: 265
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3afafe4b5570eb0800000000000000
+      internalID: -4753736646062529631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2806
+        width: 224
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e753afecc4e1ddf80800000000000000
+      internalID: -8080268841193949826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2797
+        width: 255
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e555d3fec5b6c5b0800000000000000
+      internalID: -5348387606997150232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2801
+        width: 71
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78462ea9570d3ff40800000000000000
+      internalID: 5761177551865275527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_15
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2801
+        width: 230
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e342ed34dd8680800000000000000
+      internalID: -8751105138656811351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_16
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2795
+        width: 121
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439f23e5081fa150800000000000000
+      internalID: 5885949651561976642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2477
+        width: 303
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569cf3fde4d5f580800000000000000
+      internalID: -8793888578905270690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2496
+        width: 252
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dcb0905859d2760800000000000000
+      internalID: 7434762958473514348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2517
+        width: 125
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05778df4114f0a0800000000000000
+      internalID: -6848830098691895064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2530
+        width: 134
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5cec2e02e968bf0800000000000000
+      internalID: -322396459229067822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_21
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2502
+        width: 158
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdedfe00cf942d0800000000000000
+      internalID: -3293824571490246781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_22
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2504
+        width: 157
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3e5fcb9d27cae0800000000000000
+      internalID: -1529203401246753210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_23
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2583
+        width: 161
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206d2f0c08b96230800000000000000
+      internalID: 3632636936384765997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_24
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2681
+        width: 237
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc328025518e450800000000000000
+      internalID: 6118163535850884276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_25
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2572
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606dcfc31c8179bb0800000000000000
+      internalID: -4929444048902760954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_26
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2502
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead5f926b6b89cc0800000000000000
+      internalID: -3704009800007951646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2090
+        width: 239
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8dc6b3a2d3d070800000000000000
+      internalID: 8130073352922303548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2096
+        width: 244
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1811a5ab2f0b5d010800000000000000
+      internalID: 1213070231201255809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_29
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2126
+        width: 218
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3574c95ae1ae270800000000000000
+      internalID: 8280464561514435543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_30
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2083
+        width: 459
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6a371d60b8ed00800000000000000
+      internalID: 1002244899677563670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1759
+        width: 189
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9fe02b350680810800000000000000
+      internalID: 1731739969309833670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1759
+        width: 186
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc22ccabf7fae990800000000000000
+      internalID: -7355794381049025328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1759
+        width: 327
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b5c8c681c64a90800000000000000
+      internalID: -7329958558860725225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_34
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1761
+        width: 447
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf85cc05a4e58e960800000000000000
+      internalID: 7631453241855465723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1377
+        width: 583
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45159384201dffb80800000000000000
+      internalID: -8358732575644495532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1402
+        width: 500
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83cd8cf5f69fd2e0800000000000000
+      internalID: -2098792918083058803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_37
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1409
+        width: 501
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd19f6f99a894a2f0800000000000000
+      internalID: -962476566058659361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1046
+        width: 581
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d6740e0d75203c0800000000000000
+      internalID: -4394853731732591261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_39
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1075
+        width: 613
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9961f76aabcdc550800000000000000
+      internalID: 6182821796198312350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_40
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1075
+        width: 613
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f20d10e4d842760800000000000000
+      internalID: 7432220651245547277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_41
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 729
+        width: 447
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f0394e7251a25b0800000000000000
+      internalID: -5392474342739996834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 345
+        width: 583
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3a967aeef49200800000000000000
+      internalID: 186053767594654379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 370
+        width: 500
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdbf56dc4a778500800000000000000
+      internalID: 398421562478280190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_44
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 377
+        width: 501
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2fd04d9c6a4ff0800000000000000
+      internalID: -51109023107305692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 581
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ee746de7c0cd40800000000000000
+      internalID: 5602697758856112023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_46
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 42
+        width: 613
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0392577da82960060800000000000000
+      internalID: 6919379002519267632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage07EnvironmentDesignEvacuate_47
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 42
+        width: 613
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f3d70df6fa2ca0800000000000000
+      internalID: -6040744383545609401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

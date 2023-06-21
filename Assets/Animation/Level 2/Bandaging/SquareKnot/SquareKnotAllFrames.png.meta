@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: f92a1b8900f01f347bc875b593836d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7430367083517705832
+    second: SquareKnotAllFrames_01
+  - first:
+      213: -4956211217378805565
+    second: SquareKnotAllFrames_02
+  - first:
+      213: 8790335471119167425
+    second: SquareKnotAllFrames_03
+  - first:
+      213: 1074080588639631054
+    second: SquareKnotAllFrames_04
+  - first:
+      213: -6199378941315473163
+    second: SquareKnotAllFrames_05
+  - first:
+      213: 1960865088012789757
+    second: SquareKnotAllFrames_06
+  - first:
+      213: 5851451676881537710
+    second: SquareKnotAllFrames_07
+  - first:
+      213: 6315911251652683637
+    second: SquareKnotAllFrames_08
+  - first:
+      213: 3150612660540934816
+    second: SquareKnotAllFrames_09
+  - first:
+      213: -6626624881479643473
+    second: SquareKnotAllFrames_010
+  - first:
+      213: 1887473136261873740
+    second: SquareKnotAllFrames_011
+  - first:
+      213: 6116555428344635395
+    second: SquareKnotAllFrames_012
+  - first:
+      213: -5347490404629416643
+    second: SquareKnotAllFrames_013
+  - first:
+      213: 4878135180931159391
+    second: SquareKnotAllFrames_014
+  - first:
+      213: 3384991904633822633
+    second: SquareKnotAllFrames_015
+  - first:
+      213: 7170304065911129649
+    second: SquareKnotAllFrames_016
+  - first:
+      213: 2831834387858298923
+    second: SquareKnotAllFrames_017
+  - first:
+      213: -2254090527474953298
+    second: SquareKnotAllFrames_018
+  - first:
+      213: 3143873126224415013
+    second: SquareKnotAllFrames_019
+  - first:
+      213: -8902836566755842638
+    second: SquareKnotAllFrames_020
+  - first:
+      213: 7801246602588993618
+    second: SquareKnotAllFrames_021
+  - first:
+      213: 1626909695247075484
+    second: SquareKnotAllFrames_022
+  - first:
+      213: -3207122398847584795
+    second: SquareKnotAllFrames_023
+  - first:
+      213: -4398565741380694349
+    second: SquareKnotAllFrames_024
+  - first:
+      213: 5748484543593266772
+    second: SquareKnotAllFrames_025
+  - first:
+      213: -4006174801207970466
+    second: SquareKnotAllFrames_026
+  - first:
+      213: 3578745446593095677
+    second: SquareKnotAllFrames_027
+  - first:
+      213: 3722390301850183903
+    second: SquareKnotAllFrames_028
+  - first:
+      213: -2682263866353752728
+    second: SquareKnotAllFrames_029
+  - first:
+      213: -7531104099928893209
+    second: SquareKnotAllFrames_030
+  - first:
+      213: -5122809884317075374
+    second: SquareKnotAllFrames_036
+  - first:
+      213: -4979830453877979199
+    second: SquareKnotAllFrames_031
+  - first:
+      213: -6476342969058701985
+    second: SquareKnotAllFrames_032
+  - first:
+      213: -7383682413949234981
+    second: SquareKnotAllFrames_035
+  - first:
+      213: 2416849402475685369
+    second: SquareKnotAllFrames_033
+  - first:
+      213: 7407412916323238331
+    second: SquareKnotAllFrames_034
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8081
+        width: 1532
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8910c2c518802e890800000000000000
+      internalID: -7430367083517705832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_02
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 8081
+        width: 1535
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8745c2820083bb0800000000000000
+      internalID: -4956211217378805565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_03
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 8081
+        width: 1535
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe29ca98b8df970800000000000000
+      internalID: 8790335471119167425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_04
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 8081
+        width: 1533
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f10aca96e7ee00800000000000000
+      internalID: 1074080588639631054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_05
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 8081
+        width: 1562
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0aad6d2b167f9a0800000000000000
+      internalID: -6199378941315473163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6958
+        width: 1532
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7a77f8864663b10800000000000000
+      internalID: 1960865088012789757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_07
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 6958
+        width: 1535
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa43ec3c48843150800000000000000
+      internalID: 5851451676881537710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_08
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 6958
+        width: 1535
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a6abf1df96a750800000000000000
+      internalID: 6315911251652683637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_09
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 6958
+        width: 1533
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa0468a58939bb20800000000000000
+      internalID: 3150612660540934816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_010
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 6958
+        width: 1562
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae04a797cf7904a0800000000000000
+      internalID: -6626624881479643473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5822
+        width: 1532
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404bf131d6a13a10800000000000000
+      internalID: 1887473136261873740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_012
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 5822
+        width: 1535
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300287351ce52e450800000000000000
+      internalID: 6116555428344635395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_013
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 5822
+        width: 1535
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f0482fc5e9c5b0800000000000000
+      internalID: -5347490404629416643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_014
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 5822
+        width: 1533
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55dcb10a1e92b340800000000000000
+      internalID: 4878135180931159391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_015
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 5822
+        width: 1562
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad954be338e9fe20800000000000000
+      internalID: 3384991904633822633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4689
+        width: 1532
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360c2cde89028360800000000000000
+      internalID: 7170304065911129649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_017
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 4689
+        width: 1535
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28970f3f52bc4720800000000000000
+      internalID: 2831834387858298923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_018
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 4689
+        width: 1535
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea35842ab9cd7b0e0800000000000000
+      internalID: -2254090527474953298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_019
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 4689
+        width: 1533
+        height: 1091
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c08b83f741ab20800000000000000
+      internalID: 3143873126224415013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_020
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 4689
+        width: 1562
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5e821df45c27480800000000000000
+      internalID: -8902836566755842638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_021
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3535
+        width: 1532
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583a88c378934c60800000000000000
+      internalID: 7801246602588993618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_022
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3535
+        width: 1535
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9847d28fb1f39610800000000000000
+      internalID: 1626909695247075484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_023
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 3535
+        width: 1535
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5bd799b230e73d0800000000000000
+      internalID: -3207122398847584795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_024
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 3535
+        width: 1533
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0dc743c725f2c0800000000000000
+      internalID: -4398565741380694349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_025
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 3535
+        width: 1562
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e33b15c38b6cf40800000000000000
+      internalID: 5748484543593266772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 1532
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b0e17e353768c0800000000000000
+      internalID: -4006174801207970466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_027
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2370
+        width: 1535
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76abdc5024aa130800000000000000
+      internalID: 3578745446593095677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_028
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2370
+        width: 1535
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a329e14698a330800000000000000
+      internalID: 3722390301850183903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_029
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 2370
+        width: 1533
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656e1c893fa6cad0800000000000000
+      internalID: -2682263866353752728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_030
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 2370
+        width: 1562
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8104df8b42c7790800000000000000
+      internalID: -7531104099928893209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_036
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1532
+        height: 1138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258bb615d8f18e8b0800000000000000
+      internalID: -5122809884317075374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_031
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 1532
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c74ee2269614eab0800000000000000
+      internalID: -4979830453877979199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_032
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1212
+        width: 1535
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d48adf1686f16a0800000000000000
+      internalID: -6476342969058701985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_035
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 1216
+        width: 1557
+        height: 1085
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d14607f3e78990800000000000000
+      internalID: -7383682413949234981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_033
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1212
+        width: 1535
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5ad2ef9bf5a8120800000000000000
+      internalID: 2416849402475685369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareKnotAllFrames_034
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 1212
+        width: 1533
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1461e1dca6cc660800000000000000
+      internalID: 7407412916323238331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

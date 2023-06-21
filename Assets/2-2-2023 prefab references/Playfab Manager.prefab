@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3032222762236060972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3032222762236060971}
+  - component: {fileID: 3032222762236060970}
+  - component: {fileID: 3032222762236060969}
+  - component: {fileID: 6774167125023703064}
+  - component: {fileID: 1840875947784246641}
+  - component: {fileID: 3001279251941154642}
+  m_Layer: 0
+  m_Name: Playfab Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3032222762236060971
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032222762236060972}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3032222762236060970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032222762236060972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98c612f489019b74a8addd02f328c645, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerScore: 0
+  PlayerName: 
+  PlayerPassword: 
+  PlayerID: 
+  Online: 1
+  Gameplay: 1
+  ResultData: 
+  ResultDataObj: {fileID: 0}
+  ResultDataText: {fileID: 0}
+  ResultPos: {fileID: 0}
+  ResultDataValue: 0
+  ResultDataValueObj: {fileID: 0}
+  ResultDataValueText: {fileID: 0}
+  MinScore_1: 9999
+  Rank01ImageObj: {fileID: 0}
+  MinScore_2: 5000
+  MaxScore_2: 9998
+  Rank02ImageObj: {fileID: 0}
+  MinScore_3: 0
+  MaxScore_3: 4999
+  Rank03ImageObj: {fileID: 0}
+  LeaderBoardViewPoint: {fileID: 0}
+--- !u!114 &3032222762236060969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032222762236060972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12d635f258ab2d941a12e7b03f685015, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _playfabLeaderBoardManagerScript: {fileID: 3032222762236060970}
+  IsInMainMenuScene: 0
+  _playfabManager: {fileID: 6774167125023703064}
+  LoginPanel: {fileID: 0}
+  MyAccount: {fileID: 0}
+  PlayerName: {fileID: 0}
+  RankPos: {fileID: 0}
+  Rank01: {fileID: 8691450038815911848, guid: f90e3dcb92980ea459c744cdf5ecf04c, type: 3}
+  Rank02: {fileID: 4529657516233112585, guid: a87e76334f91df049b7ab475b9a3e374, type: 3}
+  Rank03: {fileID: 3103082800015909711, guid: d37ea693603fe2d49ba4adf102739562, type: 3}
+  RankPositionOnWin: {fileID: 0}
+  RankText: {fileID: 0}
+  PlayerLogin: 0
+--- !u!114 &6774167125023703064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032222762236060972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e01197ce8c044d94b98b2a2018b7e8e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LeaderBoard: {fileID: 3032222762236060970}
+  RegistrationMessageText: {fileID: 0}
+  RegEmailFieldInput: {fileID: 0}
+  RegPasswordFieldInput: {fileID: 0}
+  RegUserFieldInput: {fileID: 0}
+  RegistrationPage: {fileID: 0}
+  LoginMessageText: {fileID: 0}
+  LoginEmailFieldInput: {fileID: 0}
+  LoginPasswordFieldInput: {fileID: 0}
+  DisplayObject: []
+  HideLoginPage: {fileID: 0}
+  UserNameText: {fileID: 0}
+  ServerID: 
+  ResetPasswordFieldInput: {fileID: 0}
+  PlayerOfficialName: 
+  PlayerOfficialPassword: 
+  PlayerPlayfabID: 
+  MainMenu: 0
+  _UserScore: 0
+  PlayerOfficialRankTitle: 
+  PlayerRankText: {fileID: 0}
+  PlayerOfficialScore: 
+  PlayerScoreText: {fileID: 0}
+  PlayerOfficialRankNumber: 
+  PlayerRankNumberText: {fileID: 0}
+  _playfabLeaderBoardManagerScript: {fileID: 3032222762236060970}
+  _playfabOnlineDetector: {fileID: 0}
+  _newPlayer: {fileID: 0}
+  ResultPosRank: {fileID: 0}
+  _latestStage: {fileID: 0}
+  _volume: {fileID: 0}
+--- !u!114 &1840875947784246641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032222762236060972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3d34c317cd5ac74c8a4b1d7ab8c1f3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsInMainMenu: 0
+  _newplayer: {fileID: 0}
+  _toggleButtonPrefabs: {fileID: 0}
+--- !u!114 &3001279251941154642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3032222762236060972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d002333c09d68714f8bbc3827809f4eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bgm: {fileID: 0}
+  _sfx: {fileID: 0}

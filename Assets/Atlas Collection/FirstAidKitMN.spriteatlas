@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FirstAidKitMN
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8a65ddd505204b34ebdaace510e55933, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5798694937426698937, guid: f6970ba002a27554c8e55edc94f30234, type: 3}
+  - {fileID: -9219345361859075172, guid: f6970ba002a27554c8e55edc94f30234, type: 3}
+  - {fileID: 5857502042658308736, guid: f6970ba002a27554c8e55edc94f30234, type: 3}
+  - {fileID: -3824770850896884848, guid: f6970ba002a27554c8e55edc94f30234, type: 3}
+  - {fileID: 21300000, guid: 643ecf0107ddfbb42800be472fcaf631, type: 3}
+  - {fileID: 21300000, guid: 9e3dea81141abdb459321eb8c7563458, type: 3}
+  - {fileID: 8569637737522862643, guid: 91bd5652cacbd1e498747b86e9376336, type: 3}
+  - {fileID: 5490557212599646639, guid: 91bd5652cacbd1e498747b86e9376336, type: 3}
+  - {fileID: 1465246942554061700, guid: 91bd5652cacbd1e498747b86e9376336, type: 3}
+  - {fileID: 1381463493625934323, guid: 91bd5652cacbd1e498747b86e9376336, type: 3}
+  - {fileID: 21300000, guid: 9a64fca32cab9254c9e14bd145cd99f0, type: 3}
+  - {fileID: 7112482492743781342, guid: 3af5a71469a27c545af7928b82b4c708, type: 3}
+  - {fileID: 6374564556321850631, guid: 3af5a71469a27c545af7928b82b4c708, type: 3}
+  - {fileID: -9086870433655771597, guid: 3af5a71469a27c545af7928b82b4c708, type: 3}
+  - {fileID: -276872238367031047, guid: 3af5a71469a27c545af7928b82b4c708, type: 3}
+  - {fileID: 21300000, guid: cb3efc34451fce94b88ed0e3cf273c85, type: 3}
+  - {fileID: -954668776948508918, guid: d4e0b3545f9ee7a409fdbd42a919818e, type: 3}
+  - {fileID: -5217357236772043431, guid: c904bc253da72654fbfd11dccd2f05f2, type: 3}
+  - {fileID: 8627987963116766280, guid: c904bc253da72654fbfd11dccd2f05f2, type: 3}
+  - {fileID: -7787360922138207735, guid: c904bc253da72654fbfd11dccd2f05f2, type: 3}
+  - {fileID: -2222778301027709737, guid: c904bc253da72654fbfd11dccd2f05f2, type: 3}
+  - {fileID: 6046486802478178035, guid: c904bc253da72654fbfd11dccd2f05f2, type: 3}
+  - {fileID: 21300000, guid: d511b7f6eda251d4c80006bbc42cf68c, type: 3}
+  - {fileID: 3478458495827130303, guid: 93ed0937cedc35442a4385a3558badd5, type: 3}
+  - {fileID: -6228504349281721533, guid: 93ed0937cedc35442a4385a3558badd5, type: 3}
+  - {fileID: 5812457216855838223, guid: 93ed0937cedc35442a4385a3558badd5, type: 3}
+  - {fileID: 4175882574753618085, guid: 93ed0937cedc35442a4385a3558badd5, type: 3}
+  - {fileID: 4015872827954283239, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: 914723787487308265, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: 8238498595893555691, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: -3847592545199940076, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: 8469202600743557072, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: 6803240544294722655, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: 8675225081464790258, guid: 4d7f2f476d8cb6e4d8003b7fddd9d906, type: 3}
+  - {fileID: 21300000, guid: dfaf9b0a54d0d254aba1140b35759b9a, type: 3}
+  - {fileID: 21300000, guid: 87d1671a7e61d214fb2d270ddf59fefa, type: 3}
+  - {fileID: 1455497176339721363, guid: af0beb6bb78ebc04aa79f0ff062643c2, type: 3}
+  - {fileID: 4845675846428638152, guid: af0beb6bb78ebc04aa79f0ff062643c2, type: 3}
+  - {fileID: -3070650586153317467, guid: af0beb6bb78ebc04aa79f0ff062643c2, type: 3}
+  - {fileID: 4995288201516025939, guid: 315b9efc9446d6f43a685be1ddba47e4, type: 3}
+  - {fileID: -8179113336481934749, guid: 315b9efc9446d6f43a685be1ddba47e4, type: 3}
+  - {fileID: 7266349335472191790, guid: 315b9efc9446d6f43a685be1ddba47e4, type: 3}
+  - {fileID: 7731289980117631173, guid: 315b9efc9446d6f43a685be1ddba47e4, type: 3}
+  - {fileID: -9069219507649703469, guid: 315b9efc9446d6f43a685be1ddba47e4, type: 3}
+  - {fileID: -8917763150926138570, guid: 315b9efc9446d6f43a685be1ddba47e4, type: 3}
+  - {fileID: 21300000, guid: 017aa02dcd03ea24491487c5e70bd80e, type: 3}
+  - {fileID: 21300000, guid: 444e5a5f7e3d05c4995df6e0f59f79ec, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TriangularBandage_3
+  - TriangularBandage_2
+  - TriangularBandage_1
+  - TriangularBandage_0
+  - Scissors
+  - List
+  - Gauze_2
+  - Gauze_3
+  - Gauze_0
+  - Gauze_1
+  - Gauze Pads
+  - Alcohol_2
+  - Alcohol_3
+  - Alcohol_0
+  - Alcohol_1
+  - First Aid Kit Box
+  - Medicine_0
+  - Scissor_2
+  - Scissor_3
+  - Scissor_0
+  - Scissor_1
+  - Scissor_4
+  - Thermometer
+  - WhistleAndBandaid_2
+  - WhistleAndBandaid_3
+  - WhistleAndBandaid_0
+  - WhistleAndBandaid_1
+  - Medicine
+  - Alcohol
+  - WhistleAndBandaid
+  - Gauze
+  - Scissors
+  - Thermometer
+  - TriangularBandage
+  - Bandaid & Whistle
+  - Medications
+  - Thermometer_0
+  - Thermometer_1
+  - Thermometer_2
+  - FirstAidMiniGameCanvasLayoutAssets_0
+  - FirstAidMiniGameCanvasLayoutAssets_1
+  - FirstAidMiniGameCanvasLayoutAssets_2
+  - FirstAidMiniGameCanvasLayoutAssets_3
+  - FirstAidMiniGameCanvasLayoutAssets_4
+  - FirstAidMiniGameCanvasLayoutAssets_5
+  - Triangular Bandage
+  - Alcohol
+  m_RenderDataMap: {}
+  m_Tag: FirstAidKitMN
+  m_IsVariant: 0

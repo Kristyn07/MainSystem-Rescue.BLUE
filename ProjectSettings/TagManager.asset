@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mission
+  - Mission Information
+  - Main Player
+  - Tilemap
+  - FallingObj
+  - Leaderboard Data
+  - DefenseObj
+  - EnterEarthquakeMode
+  - DoneFalling
+  - MainCanvas
+  - Green_Biodegradable
+  - TrashBin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - OtherSide
+  - Water
+  - UI
+  - UIBackground
+  - UIFront
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1898395973
+    locked: 0
+  - name: DesignEnvironment
+    uniqueID: 3073022335
+    locked: 0
+  - name: Behind NPC
+    uniqueID: 2794389769
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1435286669
+    locked: 0
+  - name: TileMap
+    uniqueID: 123667139
+    locked: 0
+  - name: Fillers
+    uniqueID: 376909355
+    locked: 0
+  - name: Popup
+    uniqueID: 3351421709
+    locked: 0
+  - name: InteractableObjects
+    uniqueID: 3470346667
+    locked: 0
+  - name: Notification
+    uniqueID: 2632880399
+    locked: 0
+  - name: NPC
+    uniqueID: 1639708039
+    locked: 0
+  - name: Player/Character
+    uniqueID: 3563290401
+    locked: 0
+  - name: UICam
+    uniqueID: 3639129763
+    locked: 0
+  - name: Gameobjectinfrontof NPC
+    uniqueID: 3626981267
+    locked: 0
+  - name: Stuff
+    uniqueID: 3182457543
+    locked: 0
+  - name: Main Player
+    uniqueID: 1435274297
+    locked: 0

@@ -1,0 +1,354 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2360708481121711556
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2360708481121711559}
+  - component: {fileID: 2360708481121711558}
+  m_Layer: 5
+  m_Name: ScreenDesign Collection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2360708481121711559
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2360708481121711556}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2360708481975799514}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &2360708481121711558
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2360708481121711556}
+  m_CullTransparentMesh: 1
+--- !u!1 &2360708481975799515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2360708481975799514}
+  - component: {fileID: 2360708481975799516}
+  - component: {fileID: 2360708481975799517}
+  - component: {fileID: 2360708481975799519}
+  m_Layer: 5
+  m_Name: Educational Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2360708481975799514
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2360708481975799515}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2360708481121711559}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -153.83649, y: -86.53308}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &2360708481975799516
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2360708481975799515}
+  m_CullTransparentMesh: 1
+--- !u!114 &2360708481975799517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2360708481975799515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Philippines, being in the Circum - Pacific belt of fire is always subject
+    to constant natural disaster
+--- !u!114 &2360708481975799519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2360708481975799515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f52dccc4ad7174abb88eb6b6811019, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InfomationText: {fileID: 2360708481975799517}
+  AllInfoIsRandomize: 1
+  StageNumber: 0
+  MainMenu:
+  - The Philippines, located in the Circum-Pacific belt of fire, is constantly subjected
+    to natural disasters.
+  - Republic Act No. 10121, also known as the "Philippine Disaster Risk Reduction
+    and Management Act of 2010." This law established a comprehensive framework for
+    disaster risk reduction and management in the country.
+  - "Republic Act No. 9163, also known as the \u201CNational Service Training Program
+    (NSTP) Act of 2001.\u201D This law mandates the inclusion of a disaster risk
+    reduction and management component in the NSTP, which is a program aimed at enhancing
+    civic consciousness and defense preparedness among Filipino youth."
+  Stage1:
+  - Disaster management occurs before, during, and after.
+  - Hazard refers to a dangerous phenomenon, substance, human activity, or condition
+    that may cause loss of life, injury, other health impacts, property damage, loss
+    of livelihood and services, social and economic disruption, or environmental
+    damage.
+  - Preparedness involves pre-disaster actions and measures being undertaken within
+    the context of disaster risk reduction management.
+  Stage2:
+  - Disaster management refers to the range of activities designed to maintain control
+    over disaster and emergency situations, and to provide a framework for communities
+    to avoid, cope with, or recover from the impact of disasters.
+  - 'Risks from global climate change are further exacerbating the country''s vulnerability
+    to natural hazards. '
+  - 'Environmental degradation has hugely contributed to increasing natural disaster
+    occurrence in the Philippines. '
+  Stage3: []
+  Stage4: []
+  Stage5: []
+  Stage6: []
+  Stage7: []
+  Stage8:
+  - The Philippines experiences a minimum average of 20 typhoons per year, with 7
+    of them being destructive.
+  Stage9:
+  - Rapid Urbanization and development causes flooding.
+  - 'Rapid siltation of drainage laterals and waterways leading to pumping station
+    causes flooding. '
+  - 'Encroachment at Open Waterways causes flooding. '
+  Stage10: []
+  All:
+  - 'FIRE TIP: If a fire occurs in your home, GET OUT, STAY OUT and CALL FOR HELP.
+    Never go back inside for anything or anyone.'
+  - 'FIRE TIP: Talk with all family members about a fire escape plan and practice
+    the plan twice a year.'
+  - "FIRE TIP: Test smoke alarms every month. If they\u2019re not working, change
+    the batteries."
+  - 'FIRE TIP: Install smoke alarms on every level of your home, inside bedrooms
+    and outside sleeping areas. '
+  - 'TYPHOON TIP: Check or have power lines checked to see if they are safe to use
+    again.'
+  - 'TYPHOON TIP: If evacuating, make sure your area is safe before returning home.'
+  - 'TYPHOON TIP: Listen to the news and make sure it''s safe outside. '
+  - 'TYPHOON TIP: When the storm subsides, make sure the family is still safe. '
+  - 'TYPHOON TIP: If it is necessary to evacuate, turn off the power, close the gas
+    tank, and lock the doors. '
+  - 'TYPHOON TIP: Explain to the family what can be done if the situation goes wrong.'
+  - 'TYPHOON TIP: Prepare the emergency go-bag. '
+  - 'TYPHOON TIP: Stay up-to-date with hurricane news. '
+  - 'TYPHOON TIP: Stay calm. Stay indoors. '
+  - 'TYPHOON TIP: When the typhoon makes landfall, make sure the family is always
+    updated on LGU and barangay alerts and warnings. '
+  - 'TYPHOON TIP: If the area floods frequently, raise items that may be exposed
+    to floodwaters. '
+  - 'TYPHOON TIP: Be up-to-date on typhoon signal warnings. Immediately evacuate
+    to an evacuation center or safe place when there is a warning from PAGASA, LGU
+    or barangay. '
+  - 'TYPHOON TIP: Make sure your emergency go-bag is complete and your phone and
+    power bank are fully charged. '
+  - 'TYPHOON TIP: Trim tree branches that may fall. '
+  - 'TYPHOON TIP: Tie down roofs and other things that can be blown away by the wind. '
+  - 'TYPHOON TIP: Check the house for damage to the ceiling, doors or windows, and
+    get it repaired right away. '
+  - 'TYPHOON TIP: Be prepared and alert before the typhoon arrives in your area. '
+  - 'EARTHQUAKE TIP - AFTER: Inspect utilities, Open cabinets cautiously. Beware
+    of objects that can fall off shelves.'
+  - 'EARTHQUAKE TIP - AFTER: Inspect utilities, Clean up spilled medicines, bleaches,
+    gasoline or other flammable liquids immediately. Leave the area if you smell
+    gas or fumes from other chemicals.'
+  - 'EARTHQUAKE TIP - AFTER: Inspect utilities, Check for sewage and water lines
+    damage.'
+  - 'EARTHQUAKE TIP - AFTER: Inspect utilities, do not step in water to get to the
+    fuse box or circuit breaker.'
+  - 'EARTHQUAKE TIP - AFTER: Inspect utilities, Look for electrical system damage.
+    If you see sparks or broken or frayed wires, or if you smell hot insulation,
+    turn off the electricity at the main fuse box or circuit breaker.'
+  - 'EARTHQUAKE TIP - AFTER: Inspect utilities, Check for gas leaks. If you smell
+    gas or hear blowing or hissing noise, open a window and quickly leave the building.
+    Turn off the gas at the outside main valve if you can.'
+  - 'EARTHQUAKE TIP - AFTER: Use the telephone only for emergency calls so that emergency
+    services can respond to those in need.'
+  - 'EARTHQUAKE TIP - AFTER: Be aware of possible tsunamis if you live in coastal
+    areas. '
+  - 'EARTHQUAKE TIP - AFTER: Help injured or trapped persons. Remember to help your
+    neighbors who may require special assistance such as infants, the elderly and
+    people with access and functional needs. Give first aid where appropriate. Do
+    not move seriously injured persons unless they are in immediate danger of further
+    injury. Call for help.'
+  - 'EARTHQUAKE TIP - AFTER: Watch out for fallen power lines or broken gas lines
+    and stay out of damaged areas. '
+  - 'EARTHQUAKE TIP - AFTER: Look for and extinguish small fires. Fire is the most
+    common hazard after an earthquake. '
+  - 'EARTHQUAKE TIP - AFTER: Each time you feel an aftershock, drop, cover and hold
+    on. Aftershocks frequently occur for minutes, days, weeks and even months following
+    an earthquake. '
+  - 'EARTHQUAKE TIP - AFTER: Expect and prepare for potential aftershocks, landslides
+    or even a tsunami. Tsunamis are often generated by earthquakes in coastal areas.  '
+  - 'EARTHQUAKE TIP - AFTER: When the shaking stops, look around to make sure it
+    is safe to move. Then exit the building.'
+  - 'EARTHQUAKE TIP - DURING: If Trapped Under Debris, tap on a pipe or wall so rescuers
+    can locate you. Use a whistle if one is available. Shout only as a last resort.
+    Shouting can cause you to inhale dangerous amounts of dust.'
+  - 'EARTHQUAKE TIP - DURING: If Trapped Under Debris, Cover your mouth with a handkerchief
+    or clothing.'
+  - 'EARTHQUAKE TIP - DURING: If Trapped Under Debris, do not move about or kick
+    up dust.'
+  - 'EARTHQUAKE TIP - DURING: If Trapped Under Debris, do not light a match.'
+  - 'EARTHQUAKE TIP - DURING: If in a Moving Vehicle, proceed cautiously once the
+    earthquake has stopped. Avoid roads, bridges, or ramps that might have been damaged
+    by the earthquake.'
+  - 'EARTHQUAKE TIP - DURING: If in a Moving Vehicle, stop as quickly as safety permits
+    and stay in the vehicle. Avoid stopping near or under buildings, trees, overpasses,
+    and utility wires.'
+  - 'EARTHQUAKE TIP - DURING: If outdoors, Stay there until the shaking stops. The
+    greatest danger exists directly outside buildings, at exits and alongside exterior
+    walls. Many fatalities from earthquakes occur when people run outside of buildings
+    only to be killed by falling debris from collapsing walls. Ground movement during
+    an earthquake is seldom the direct cause of death or injury. Most earthquake
+    related casualties result from collapsing walls, flying glass, and falling objects.  '
+  - 'EARTHQUAKE TIP - DURING: If outdoors, Stay there.'
+  - 'EARTHQUAKE TIP - DURING: If outdoors, Move away from buildings, streetlights,
+    and utility wires to open areas.'
+  - 'EARTHQUAKE TIP - DURING: If indoors, be aware that the electricity may go out.'
+  - 'EARTHQUAKE TIP - DURING: If indoors, use stairs - do not use elevators.'
+  - 'EARTHQUAKE TIP - DURING: If indoors, stay inside until the shaking stops and
+    it is safe to go outside. Do not exit a building during the shaking. Research
+    has shown that most injuries occur when people inside buildings attempt to move
+    to a different location inside the building or try to leave. '
+  - 'EARTHQUAKE TIP - DURING: If indoors, do not use a doorway except if you know
+    it is a strongly supported, load-bearing doorway and it is close to you. Many
+    inside doorways are lightly constructed and do not offer protection. '
+  - 'EARTHQUAKE TIP - DURING: If indoors, stay in bed if you are there when the earthquake
+    strikes. Hold on and protect your head with a pillow, unless you are under a
+    heavy light fixture that could fall. In that case, move to the nearest safe place.'
+  - 'EARTHQUAKE TIP - DURING: If indoors, stay away from glass, windows, outside
+    doors and walls, and anything that could fall, such as lighting fixtures or furniture.'
+  - 'EARTHQUAKE TIP - DURING: If indoors, drop to the ground; take cover by getting
+    under a solid table or other piece of furniture; and hold on until the shaking
+    stops. If there is not a table or desk near you, cover your face and head with
+    your arms and crouch in an inside corner of the building.'
+  - 'EARTHQUAKE TIP - BEFORE: Hold earthquake drills with your family members: Drop,
+    cover and hold on. '
+  - 'EARTHQUAKE TIP - BEFORE: Locate safe spots in each room under a solid table
+    or against an inside wall. Reinforce this information by moving to these places
+    during drills.'
+  - 'EARTHQUAKE TIP - BEFORE: Store weed killers, pesticides, and flammable products
+    securely in closed cabinets with latches and on bottom shelves. Lock these if
+    there is a risk that young children may find them.'
+  - 'EARTHQUAKE TIP - BEFORE: Be sure the residence is firmly anchored to its foundation.'
+  - 'EARTHQUAKE TIP - BEFORE: Repair any deep cracks in ceilings or foundations.
+    Get expert advice if there are signs of structural defects.'
+  - 'EARTHQUAKE TIP - BEFORE: Repair defective electrical wiring and leaky gas connections.
+    These are potential fire risks. Get appropriate professional help. Do not work
+    with gas or electrical lines yourself. Repair defective electrical wiring and
+    leaky gas connections. These are potential fire risks. Get appropriate professional
+    help. Do not work with gas or electrical lines yourself.'
+  - 'EARTHQUAKE TIP - BEFORE: Brace overhead light fixtures and top-heavy objects.'
+  - 'EARTHQUAKE TIP - BEFORE: Fasten heavy items such as pictures and mirrors securely
+    to walls and away from beds, couches and anywhere people sit.'
+  - 'EARTHQUAKE TIP - BEFORE: Store breakable items such as bottled foods, glass,
+    and china in low, closed cabinets with latches.'
+  - 'EARTHQUAKE TIP - BEFORE: Place large or heavy objects on lower shelves.'
+  - 'EARTHQUAKE TIP - BEFORE: Fasten shelves securely to walls.'
+  - 'EARTHQUAKE TIP - BEFORE: Build an emergency/evacuation kit and make a family
+    communication plan including a list of essential numbers.'
+  - Mitigation and prevention refer to sustained measures taken before a disaster
+    occurs and are aimed at minimizing the potential impacts of a disaster or reducing
+    disaster risks.
+  - Philippines Risk Profile, located along the Pacific Ring of Fire, between two
+    tectonic plates (Eurasian and Pacific) which are volcanic and earthquake generators.
+  - Rapid urbanization in the country has led to urban squalor and the proliferation
+    of unplanned, informal and overcrowded settlements, often in hazard-prone areas.
+  - Encroachment at Open Waterways causes flooding.
+  - Rapid siltation of drainage laterals and waterways leading to pumping station
+    causes flooding.
+  - Rapid Urbanization and development causes flooding.
+  - Yearly, the Philippines is experiencing a minimum average of 20 typhoons where
+    7 of these are destructive.
+  - Environmental degradation has hugely contributed to increasing natural disaster
+    occurrence in the Philippines.
+  - Risks from global climate change are further exacerbating the country's vulnerability
+    to natural hazards.
+  - Disaster management refers to the range of activities designed to maintain control
+    over disaster and emergency situations, and to provide a framework for communities
+    to avoid, cope with, or recover from the impact of disasters.
+  - Preparedness involves pre-disaster actions and measures being undertaken within
+    the context of disaster risk reduction management.
+  - Hazard refers to a dangerous phenomenon, substance, human activity, or condition
+    that may cause loss of life, injury, other health impacts, property damage, loss
+    of livelihood and services, social and economic disruption, or environmental
+    damage.
+  - Disaster management occurs before, during, and after.
+  - "Republic Act No. 9163, also known as the \u201CNational Service Training Program
+    (NSTP) Act of 2001.\u201D This law mandates the inclusion of a disaster risk
+    reduction and management component in the NSTP, which is a program aimed at enhancing
+    civic consciousness and defense preparedness among Filipino youth."
+  - Republic Act No. 10121, also known as the "Philippine Disaster Risk Reduction
+    and Management Act of 2010." This law established a comprehensive framework for
+    disaster risk reduction and management in the country.
+  - The Philippines, located in the Circum-Pacific belt of fire, is constantly subjected
+    to natural disasters.

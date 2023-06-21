@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SlingArmBandaging
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 92b554fa5ea47de4dbc113c99786844a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 99c4c3506897a5a458406b7b385083d7, type: 3}
+  - {fileID: 21300000, guid: aaac0650208044741bf84331791edd0a, type: 3}
+  - {fileID: 21300000, guid: c4b09460ca2378f4d84a59b77a62a9d5, type: 3}
+  - {fileID: 21300000, guid: 0ec5cab03f2f5ad4e9acf498d97ab600, type: 3}
+  - {fileID: 21300000, guid: 813d86c002dde1d4598ac469e1975d2e, type: 3}
+  - {fileID: 21300000, guid: 9f9968012447d89418ee462efad43029, type: 3}
+  - {fileID: 21300000, guid: e0f8221160a23834580d9f3858776f69, type: 3}
+  - {fileID: 21300000, guid: 37a04061838a6894fb9ffca816eb2493, type: 3}
+  - {fileID: 21300000, guid: 43f0e161e98b3a045908f3cb51098141, type: 3}
+  - {fileID: 21300000, guid: 3166f3618638c5d4cac0ee92236b55aa, type: 3}
+  - {fileID: 21300000, guid: 295072a11d7ec0444b19a0c857b9bc56, type: 3}
+  - {fileID: 21300000, guid: ad17bfb16d267e0478c73b2e9dd06d16, type: 3}
+  - {fileID: 21300000, guid: 56cf5a02e35e84d439490758446bea05, type: 3}
+  - {fileID: 21300000, guid: cec0e01281c1e4c42818386747e6cfe4, type: 3}
+  - {fileID: 21300000, guid: a8bf2142591ce6749ba407c205cb4642, type: 3}
+  - {fileID: 21300000, guid: 0bd654627b254bc4685e93ce8c6b1273, type: 3}
+  - {fileID: 21300000, guid: 2ed19b925a2613541be097c28d68e350, type: 3}
+  - {fileID: 21300000, guid: 19d122c2e12fe194b9a76d6b85d7af37, type: 3}
+  - {fileID: 21300000, guid: 02d94af262a4b744b968eb419da56107, type: 3}
+  - {fileID: 21300000, guid: 061e83035760dc0419215844eef6a08b, type: 3}
+  - {fileID: 21300000, guid: efc6f09384ec455439938d8069cbb4c0, type: 3}
+  - {fileID: 21300000, guid: 1d4829932721c8a408d6ac1f87a5ee36, type: 3}
+  - {fileID: 21300000, guid: 289a83042ec5dba48989cb0a29d6b1f5, type: 3}
+  - {fileID: 21300000, guid: 43f02d746954a0543be3d1f765f4b60d, type: 3}
+  - {fileID: 21300000, guid: b25343c4a142e3d4989bdc139f66ea54, type: 3}
+  - {fileID: 21300000, guid: 61effad4c5e9fe34db78efb91bf65ee4, type: 3}
+  - {fileID: 21300000, guid: 701c6af4320dc404a9304d7efd47f5d6, type: 3}
+  - {fileID: 21300000, guid: 95b00df4b3a328142941fc4a9f422147, type: 3}
+  - {fileID: 21300000, guid: a139b0550d1544741954ca0d798d8cf2, type: 3}
+  - {fileID: 21300000, guid: c6868ee5be243d448939550f4a7d4d50, type: 3}
+  - {fileID: 21300000, guid: 50222c465ffe7544fa32d541c8c25f99, type: 3}
+  - {fileID: 21300000, guid: c67fb7861808f3d42a608e80c5504f9f, type: 3}
+  - {fileID: 21300000, guid: e597add642600c84ebc09c4b25e4e716, type: 3}
+  - {fileID: 21300000, guid: 1649faf60715c864d8b56ad307aab385, type: 3}
+  - {fileID: 21300000, guid: ae71a60722df909448613e2ce761d913, type: 3}
+  - {fileID: 21300000, guid: c69454379553ea54798e261f4987a972, type: 3}
+  - {fileID: 21300000, guid: 985451e79e4719446ab28a109ff2876b, type: 3}
+  - {fileID: 21300000, guid: 6560191834d532f4b819e96b2c16c9aa, type: 3}
+  - {fileID: 21300000, guid: a142f5383c6b6bc4c882597568b3880d, type: 3}
+  - {fileID: 21300000, guid: 14e5f6689fb1b264c85388e17baa58a6, type: 3}
+  - {fileID: 21300000, guid: 641cb59810ba143488061fd4dc55a348, type: 3}
+  - {fileID: 21300000, guid: faa9dba81c489a743805836724fdd781, type: 3}
+  - {fileID: 21300000, guid: 06e9e2c806765924f9cf046380e93c81, type: 3}
+  - {fileID: 21300000, guid: 82d29259855b17246b6988fee478f35e, type: 3}
+  - {fileID: 21300000, guid: cf070b594b7286747af8212ee88d5682, type: 3}
+  - {fileID: 21300000, guid: f71fed8968f96da4ca8ff9b13bb62ec3, type: 3}
+  - {fileID: 21300000, guid: f9c36fa934a5feb40af592866d304f01, type: 3}
+  - {fileID: 21300000, guid: 57274df91153ff349a25751937c9b2c3, type: 3}
+  - {fileID: 21300000, guid: ba5ebf1a5ed3056499e9c9ee9b58b47a, type: 3}
+  - {fileID: 21300000, guid: ad99df1a5589a8f47bd3d984502f597e, type: 3}
+  - {fileID: 21300000, guid: eaf5427a61b1aba43b693680bc382103, type: 3}
+  - {fileID: 21300000, guid: 7e2dff7a95d88d644ae12d6942d8aac9, type: 3}
+  - {fileID: 21300000, guid: 14e9becaefdef394cad8deec53ff6ff1, type: 3}
+  - {fileID: 21300000, guid: f6daa7da1921fb14089a3a3b48c1cfa5, type: 3}
+  - {fileID: 21300000, guid: d2e7c50bc50f0cd4ea75508701abb658, type: 3}
+  - {fileID: 21300000, guid: 180ef18b538a1dc43b3c3a6c57cc203f, type: 3}
+  - {fileID: 21300000, guid: 41edacbb997deac4cabfd2c76f896ac0, type: 3}
+  - {fileID: 21300000, guid: 223a5dbbb4fa1da408122d102fab0d24, type: 3}
+  - {fileID: 21300000, guid: 4a9478eb1338b134ba7828a629179b98, type: 3}
+  - {fileID: 21300000, guid: a09cc75cb6fa4634fb652007e1069da1, type: 3}
+  - {fileID: 21300000, guid: 195f4a7cfe146e749b1b551e57c0e560, type: 3}
+  - {fileID: 21300000, guid: f3f6c18c12ebbdd4084017dc46ce0bcb, type: 3}
+  - {fileID: 21300000, guid: 52c986bcd28863046a3375e12344fef8, type: 3}
+  - {fileID: 21300000, guid: 93e0f4dcfe85de54ca7b958b8adf14c7, type: 3}
+  - {fileID: 21300000, guid: 38ef9d1d61b2c4048a987be9a2913de8, type: 3}
+  - {fileID: 21300000, guid: f0cc64bdffa27324198d1200c75a5b17, type: 3}
+  - {fileID: 21300000, guid: 76b06fbd31938584dbe9f50751cc7050, type: 3}
+  - {fileID: 21300000, guid: 7227120e86985904a8e141a7c5ee1746, type: 3}
+  - {fileID: 21300000, guid: 9a13a13ec9f068f4396204db9a57afd4, type: 3}
+  - {fileID: 21300000, guid: 1579e4de09ed6b34694f2905255cf822, type: 3}
+  - {fileID: 21300000, guid: c04357ee1e7cfc24eba95e4b260106cd, type: 3}
+  - {fileID: 21300000, guid: 4e0d2d0f88b0d1e4daadc16acf25cb76, type: 3}
+  - {fileID: 21300000, guid: dd67932f5ded52d49b1e25d0c5ceebc5, type: 3}
+  - {fileID: 21300000, guid: 4fd0ef2f447e4c949a8bc1cb50b484e8, type: 3}
+  - {fileID: 21300000, guid: c77a2b6f1eac7fc45886b41096029e59, type: 3}
+  - {fileID: 21300000, guid: 4fcd6d8fb7e306c4b8d6c4017d4d4444, type: 3}
+  - {fileID: 21300000, guid: f32916ef33092c34d8edbd0653defa1a, type: 3}
+  - {fileID: 21300000, guid: 9bca91ff4b8873042b5777a12830e5e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bandaging_SlingArm0031
+  - Bandaging_SlingArm0066
+  - Bandaging_SlingArm0075
+  - Bandaging_SlingArm0001
+  - Bandaging_SlingArm0019
+  - Bandaging_SlingArm0025
+  - Bandaging_SlingArm0037
+  - Bandaging_SlingArm0000
+  - Bandaging_SlingArm0048
+  - Bandaging_SlingArm0015
+  - Bandaging_SlingArm0052
+  - Bandaging_SlingArm0026
+  - Bandaging_SlingArm0024
+  - Bandaging_SlingArm0032
+  - Bandaging_SlingArm0045
+  - Bandaging_SlingArm0018
+  - Bandaging_SlingArm0073
+  - Bandaging_SlingArm0062
+  - Bandaging_SlingArm0076
+  - Bandaging_SlingArm0003
+  - Bandaging_SlingArm0051
+  - Bandaging_SlingArm0041
+  - Bandaging_SlingArm0060
+  - Bandaging_SlingArm0036
+  - Bandaging_SlingArm0067
+  - Bandaging_SlingArm0071
+  - Bandaging_SlingArm0063
+  - Bandaging_SlingArm0029
+  - Bandaging_SlingArm0068
+  - Bandaging_SlingArm0009
+  - Bandaging_SlingArm0004
+  - Bandaging_SlingArm0044
+  - Bandaging_SlingArm0007
+  - Bandaging_SlingArm0069
+  - Bandaging_SlingArm0016
+  - Bandaging_SlingArm0002
+  - Bandaging_SlingArm0027
+  - Bandaging_SlingArm0010
+  - Bandaging_SlingArm0064
+  - Bandaging_SlingArm0033
+  - Bandaging_SlingArm0077
+  - Bandaging_SlingArm0057
+  - Bandaging_SlingArm0038
+  - Bandaging_SlingArm0021
+  - Bandaging_SlingArm0042
+  - Bandaging_SlingArm0072
+  - Bandaging_SlingArm0034
+  - Bandaging_SlingArm0055
+  - Bandaging_SlingArm0065
+  - Bandaging_SlingArm0028
+  - Bandaging_SlingArm0020
+  - Bandaging_SlingArm0022
+  - Bandaging_SlingArm0054
+  - Bandaging_SlingArm0006
+  - Bandaging_SlingArm0017
+  - Bandaging_SlingArm0008
+  - Bandaging_SlingArm0039
+  - Bandaging_SlingArm0047
+  - Bandaging_SlingArm0013
+  - Bandaging_SlingArm0043
+  - Bandaging_SlingArm0061
+  - Bandaging_SlingArm0046
+  - Bandaging_SlingArm0053
+  - Bandaging_SlingArm0056
+  - Bandaging_SlingArm0035
+  - Bandaging_SlingArm0012
+  - Bandaging_SlingArm0074
+  - Bandaging_SlingArm0040
+  - Bandaging_SlingArm0050
+  - Bandaging_SlingArm0059
+  - Bandaging_SlingArm0070
+  - Bandaging_SlingArm0014
+  - Bandaging_SlingArm0023
+  - Bandaging_SlingArm0058
+  - Bandaging_SlingArm0005
+  - Bandaging_SlingArm0030
+  - Bandaging_SlingArm0049
+  - Bandaging_SlingArm0011
+  m_RenderDataMap: {}
+  m_Tag: SlingArmBandaging
+  m_IsVariant: 0

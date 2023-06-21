@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: a58d821c74117c44880dd71771549983
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3248016844464061955
+    second: PalmCravat0_29__0
+  - first:
+      213: 1211137062245986631
+    second: PalmCravat0_29__1
+  - first:
+      213: 39186847371447892
+    second: PalmCravat0_29__2
+  - first:
+      213: -840730091027865013
+    second: PalmCravat0_29__3
+  - first:
+      213: 5459096913125347347
+    second: PalmCravat0_29__4
+  - first:
+      213: -2139653662341821698
+    second: PalmCravat0_29__5
+  - first:
+      213: -217359613875692162
+    second: PalmCravat0_29__6
+  - first:
+      213: 5413068172208683372
+    second: PalmCravat0_29__7
+  - first:
+      213: 2639923622915672996
+    second: PalmCravat0_29__8
+  - first:
+      213: -2963686233451632055
+    second: PalmCravat0_29__9
+  - first:
+      213: -1028490728017845766
+    second: PalmCravat0_29__10
+  - first:
+      213: 9082850350196264509
+    second: PalmCravat0_29__11
+  - first:
+      213: -3194249617122954872
+    second: PalmCravat0_29__12
+  - first:
+      213: -6045586563395154222
+    second: PalmCravat0_29__13
+  - first:
+      213: -1687471361367450285
+    second: PalmCravat0_29__14
+  - first:
+      213: -7305533991693840001
+    second: PalmCravat0_29__15
+  - first:
+      213: -6935364828404073419
+    second: PalmCravat0_29__16
+  - first:
+      213: 679518972690542478
+    second: PalmCravat0_29__17
+  - first:
+      213: 7900279969306154712
+    second: PalmCravat0_29__18
+  - first:
+      213: -7183067604256840543
+    second: PalmCravat0_29__19
+  - first:
+      213: -8192611450033230575
+    second: PalmCravat0_29__20
+  - first:
+      213: 4145119497572198489
+    second: PalmCravat0_29__21
+  - first:
+      213: -3554795800136986719
+    second: PalmCravat0_29__22
+  - first:
+      213: 7751231814770788658
+    second: PalmCravat0_29__23
+  - first:
+      213: 325365651716236701
+    second: PalmCravat0_29__24
+  - first:
+      213: 4290708554150558280
+    second: PalmCravat0_29__25
+  - first:
+      213: -7100738353896167379
+    second: PalmCravat0_29__26
+  - first:
+      213: 924791579803835458
+    second: PalmCravat0_29__27
+  - first:
+      213: -5409359369451737920
+    second: PalmCravat0_29__28
+  - first:
+      213: 5049006086483072944
+    second: PalmCravat0_29__29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PalmCravat0_29__0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4919
+        width: 1852
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df10c3183e9bce2d0800000000000000
+      internalID: -3248016844464061955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__1
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 4919
+        width: 1849
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7417b71cdb2dec010800000000000000
+      internalID: 1211137062245986631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__2
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 4919
+        width: 1850
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e4175ea383b8000800000000000000
+      internalID: 39186847371447892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__3
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 4919
+        width: 1853
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426d44cf602554f0800000000000000
+      internalID: -840730091027865013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__4
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 4919
+        width: 1851
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310944d08bb92cb40800000000000000
+      internalID: 5459096913125347347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3940
+        width: 1852
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa80c9945c6e42e0800000000000000
+      internalID: -2139653662341821698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__6
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 3940
+        width: 1849
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5c623598cbfcf0800000000000000
+      internalID: -217359613875692162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__7
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 3940
+        width: 1850
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b87da2d41f1b40800000000000000
+      internalID: 5413068172208683372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__8
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 3940
+        width: 1851
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0d025c84e2a420800000000000000
+      internalID: 2639923622915672996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__9
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 3940
+        width: 1851
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a666da21fded6d0800000000000000
+      internalID: -2963686233451632055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2963
+        width: 1852
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a6bdc1211ab1f0800000000000000
+      internalID: -1028490728017845766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__11
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2963
+        width: 1849
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e0b7f3544cc0e70800000000000000
+      internalID: 9082850350196264509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__12
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 2963
+        width: 1850
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817577a5eebba3d0800000000000000
+      internalID: -3194249617122954872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__13
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 2963
+        width: 1853
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de05fd2d03c91ca0800000000000000
+      internalID: -6045586563395154222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__14
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 2963
+        width: 1851
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d5c09ccb5e498e0800000000000000
+      internalID: -1687471361367450285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1984
+        width: 1852
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711c8a7a878d9a90800000000000000
+      internalID: -7305533991693840001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__16
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1984
+        width: 1849
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cbc370f62a0cf90800000000000000
+      internalID: -6935364828404073419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__17
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1984
+        width: 1850
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fab59c7e22e6900800000000000000
+      internalID: 679518972690542478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__18
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 1984
+        width: 1851
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d690ac46ce63ad60800000000000000
+      internalID: 7900279969306154712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__19
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 1984
+        width: 1851
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a7aa421e905c90800000000000000
+      internalID: -7183067604256840543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1007
+        width: 1852
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da8f1ea4ffd4e80800000000000000
+      internalID: -8192611450033230575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__21
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1007
+        width: 1849
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9582654a83c668930800000000000000
+      internalID: 4145119497572198489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__22
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1007
+        width: 1850
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc8cbcd04daaec0800000000000000
+      internalID: -3554795800136986719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__23
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 1007
+        width: 1853
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398e1b8448e19b60800000000000000
+      internalID: 7751231814770788658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__24
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 1007
+        width: 1851
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95e8ac165ee38400800000000000000
+      internalID: 325365651716236701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 1852
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84abfd462b8ab8b30800000000000000
+      internalID: 4290708554150558280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__26
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 28
+        width: 1849
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e605a61c157d90800000000000000
+      internalID: -7100738353896167379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__27
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 28
+        width: 1850
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cda75ca0585dc00800000000000000
+      internalID: 924791579803835458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__28
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 28
+        width: 1851
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cce56140581ee4b0800000000000000
+      internalID: -5409359369451737920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalmCravat0_29__29
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 28
+        width: 1851
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7db9de84ca11640800000000000000
+      internalID: 5049006086483072944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

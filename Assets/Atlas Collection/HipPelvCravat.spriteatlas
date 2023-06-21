@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HipPelvCravat
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 192d176bec0faea4e95d1bede1372226, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 23d3d73075b8c1040ad3aff5764e5040, type: 3}
+  - {fileID: 21300000, guid: a2da4e4144866cc4f810651da34c2e15, type: 3}
+  - {fileID: 21300000, guid: 998dc59126b0e164d9a79ec3d71b916a, type: 3}
+  - {fileID: 21300000, guid: cc27cce1e2e88124fb085f15b518e864, type: 3}
+  - {fileID: 21300000, guid: 12a82c42746b852459c5e252e2a46d42, type: 3}
+  - {fileID: 21300000, guid: d8b620724d1171a45abf9f61dd139835, type: 3}
+  - {fileID: 21300000, guid: 1bed5d72ee8645448baaf4830ac90a7c, type: 3}
+  - {fileID: 21300000, guid: 03420de2474bd2345b83cf7b9ce73ac4, type: 3}
+  - {fileID: 21300000, guid: 5a2d6f03b73081b45849a4900988030c, type: 3}
+  - {fileID: 21300000, guid: 40c05043d194f794fa46513e4b56306f, type: 3}
+  - {fileID: 21300000, guid: 4b33cd73d69b25f4bb8430875a359103, type: 3}
+  - {fileID: 21300000, guid: 0e2c4483c83fa7648930d45369e0f121, type: 3}
+  - {fileID: 21300000, guid: c2a5e4b3f7dd2054882e037cceed5ee9, type: 3}
+  - {fileID: 21300000, guid: bee995c349100ca4a816ca7d54fda06f, type: 3}
+  - {fileID: 21300000, guid: 2bcbed94b4a518e44a6cde9b7dc5de0c, type: 3}
+  - {fileID: 21300000, guid: 7afe01f4af6856e41ad77636db4f1830, type: 3}
+  - {fileID: 21300000, guid: 3371e3f4758979948881108b1cae03df, type: 3}
+  - {fileID: 21300000, guid: ebfb0c151bc723041a675cb187d39c51, type: 3}
+  - {fileID: 21300000, guid: 199d5e858ef25d0429b24795808c5686, type: 3}
+  - {fileID: 21300000, guid: bee6daf5cda10d84a9ecb47c7cb7c6d4, type: 3}
+  - {fileID: 21300000, guid: bcd25006ea9f09d43be449e087d8a719, type: 3}
+  - {fileID: 21300000, guid: 8f456a46f8dabee49b3eaec96b9d0f51, type: 3}
+  - {fileID: 21300000, guid: a083b7a6e12cd2d4bb4fb496065778b0, type: 3}
+  - {fileID: 21300000, guid: f7eae367eb7a0c6428d7f5ca8023ab5b, type: 3}
+  - {fileID: 21300000, guid: 727c17779458c5b4bb155dbac9deb0ee, type: 3}
+  - {fileID: 21300000, guid: d9a42a77b21a4ca4aa7c43abc244c0b4, type: 3}
+  - {fileID: 21300000, guid: 2363255827296164782f365fc6670278, type: 3}
+  - {fileID: 21300000, guid: 13dc2a093a3a93748b7d2aa65326cddf, type: 3}
+  - {fileID: 21300000, guid: 2f964db99c966e94b8bb8fa851e973db, type: 3}
+  - {fileID: 21300000, guid: 6ad94f3b4cee4d748920b4be142c1f79, type: 3}
+  - {fileID: 21300000, guid: 39c6789ba6d3ba04d9348d85ee9800a3, type: 3}
+  - {fileID: 5338920963001371269, guid: 7f709bdbf2e28d444a374b27ed796859, type: 3}
+  - {fileID: 7417712591185946804, guid: 7f709bdbf2e28d444a374b27ed796859, type: 3}
+  - {fileID: 21300000, guid: 6aeb690c5556eab418eca01ec1787243, type: 3}
+  - {fileID: 21300000, guid: b32e65dceb155034f8a16c5c01c062f6, type: 3}
+  - {fileID: 21300000, guid: 6eb3cf7d8ed324242a34ed88ad3576a6, type: 3}
+  - {fileID: 21300000, guid: d523aeeda850ddd45ba114791b4b9cfa, type: 3}
+  - {fileID: 21300000, guid: f9a569fd398abe341ae7af534361f969, type: 3}
+  - {fileID: 21300000, guid: fa422fcee2f38524ab37ea11bc3db2ee, type: 3}
+  - {fileID: 21300000, guid: 27eae56f1f3df5848bc0ff4e9d7ffc06, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HipCraval_PelvisCravat0033
+  - HipCraval_PelvisCravat0013
+  - HipCraval_PelvisCravat0001
+  - HipCraval_PelvisCravat0004
+  - HipCraval_PelvisCravat0027
+  - HipCraval_PelvisCravat0010
+  - HipCraval_PelvisCravat0037
+  - HipCraval_PelvisCravat0029
+  - HipCraval_PelvisCravat0020
+  - HipCraval_PelvisCravat0006
+  - HipCraval_PelvisCravat0018
+  - HipCraval_PelvisCravat0024
+  - HipCraval_PelvisCravat0022
+  - HipCraval_PelvisCravat0032
+  - HipCraval_PelvisCravat0034
+  - HipCraval_PelvisCravat0000
+  - HipCraval_PelvisCravat0025
+  - HipCraval_PelvisCravat0009
+  - HipCraval_PelvisCravat0014
+  - HipCraval_PelvisCravat0005
+  - HipCraval_PelvisCravat0036
+  - HipCraval_PelvisCravat0028
+  - HipCraval_PelvisCravat0016
+  - HipCraval_PelvisCravat0031
+  - HipCraval_PelvisCravat0019
+  - HipCraval_PelvisCravat0030
+  - HipCraval_PelvisCravat0003
+  - HipCraval_PelvisCravat0002
+  - HipCraval_PelvisCravat0012
+  - HipCraval_PelvisCravat0035
+  - HipCraval_PelvisCravat0023
+  - HipCraval_PelvisCravat0037 1_3
+  - HipCraval_PelvisCravat0037 1_1
+  - HipCraval_PelvisCravat0021
+  - HipCraval_PelvisCravat0026
+  - HipCraval_PelvisCravat0015
+  - HipCraval_PelvisCravat0017
+  - HipCraval_PelvisCravat0008
+  - HipCraval_PelvisCravat0011
+  - HipCraval_PelvisCravat0007
+  m_RenderDataMap: {}
+  m_Tag: HipPelvCravat
+  m_IsVariant: 0

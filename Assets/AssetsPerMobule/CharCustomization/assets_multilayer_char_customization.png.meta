@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 4cd97499e05d8644ea144df7ccda279f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1387623324232272999
+    second: BTN_M
+  - first:
+      213: -3608527579340826556
+    second: BTN_Randomized
+  - first:
+      213: -8076645685792303486
+    second: BTN_Prevous
+  - first:
+      213: 98545126506659360
+    second: BTN_Next
+  - first:
+      213: 7593027412095863809
+    second: assets_multilayer_char_customization_8
+  - first:
+      213: -296872046063925399
+    second: assets_multilayer_char_customization_9
+  - first:
+      213: -2003888823874654568
+    second: assets_multilayer_char_customization_10
+  - first:
+      213: 6156352074649082583
+    second: assets_multilayer_char_customization_11
+  - first:
+      213: -8704533174350086344
+    second: assets_multilayer_char_customization_12
+  - first:
+      213: 4371407242475251152
+    second: assets_multilayer_char_customization_13
+  - first:
+      213: 7578967945084736577
+    second: assets_multilayer_char_customization_14
+  - first:
+      213: -832057055554445616
+    second: assets_multilayer_char_customization_15
+  - first:
+      213: -7025131893173744296
+    second: BTN_F
+  - first:
+      213: -812445574247367267
+    second: Status
+  - first:
+      213: 820774479319212538
+    second: assets_multilayer_char_customization_27
+  - first:
+      213: 3897590578689661170
+    second: assets_multilayer_char_customization_28
+  - first:
+      213: -5923087227559830444
+    second: assets_multilayer_char_customization_29
+  - first:
+      213: 8200189870832631615
+    second: assets_multilayer_char_customization_30
+  - first:
+      213: -2736736337254799240
+    second: assets_multilayer_char_customization_31
+  - first:
+      213: 166160580688622869
+    second: assets_multilayer_char_customization_32
+  - first:
+      213: 7060142800453810964
+    second: assets_multilayer_char_customization_33
+  - first:
+      213: 7779685501238061079
+    second: assets_multilayer_char_customization_34
+  - first:
+      213: 1199518043256178302
+    second: BTN_Uni
+  - first:
+      213: 2641922122830189294
+    second: assets_multilayer_char_customization_51
+  - first:
+      213: -1156559221928491553
+    second: assets_multilayer_char_customization_52
+  - first:
+      213: 4546970641069567531
+    second: assets_multilayer_char_customization_53
+  - first:
+      213: -5721401802126099567
+    second: assets_multilayer_char_customization_54
+  - first:
+      213: 341206095155380768
+    second: assets_multilayer_char_customization_55
+  - first:
+      213: -500162473314859743
+    second: assets_multilayer_char_customization_56
+  - first:
+      213: -6975710791934512788
+    second: assets_multilayer_char_customization_57
+  - first:
+      213: 640960983995996237
+    second: assets_multilayer_char_customization_58
+  - first:
+      213: 3748654336824721004
+    second: assets_multilayer_char_customization_71
+  - first:
+      213: -9221593202524113598
+    second: assets_multilayer_char_customization_72
+  - first:
+      213: -9022328249202013626
+    second: assets_multilayer_char_customization_73
+  - first:
+      213: 6465872711604239604
+    second: assets_multilayer_char_customization_74
+  - first:
+      213: -8784815274329059191
+    second: assets_multilayer_char_customization_75
+  - first:
+      213: 4911278097150604408
+    second: assets_multilayer_char_customization_76
+  - first:
+      213: -6726799236494609764
+    second: assets_multilayer_char_customization_77
+  - first:
+      213: 3031181890558988659
+    second: assets_multilayer_char_customization_78
+  - first:
+      213: -7379995126182930990
+    second: layout_char options
+  - first:
+      213: -1173903666252718322
+    second: txt1_head_torso_Pelvis
+  - first:
+      213: -381961439842397309
+    second: txt1_arm_leg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BTN_M
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2671
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c49eabf04d14310800000000000000
+      internalID: 1387623324232272999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Randomized
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2683
+        width: 431
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448903f094febedc0800000000000000
+      internalID: -3608527579340826556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Prevous
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2677
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28698a96a8df9ef80800000000000000
+      internalID: -8076645685792303486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Next
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2673
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e76cb354a1e5100800000000000000
+      internalID: 98545126506659360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_F
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2532
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d8c1f83c7b18e90800000000000000
+      internalID: -7025131893173744296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Status
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2120
+        width: 874
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db5a30e0d99b4f0800000000000000
+      internalID: -812445574247367267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BTN_Uni
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2395
+        width: 133
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76c4f51e4b85a010800000000000000
+      internalID: 1199518043256178302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layout_char options
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 262
+        width: 3047
+        height: 1684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d590cb988df49990800000000000000
+      internalID: -7379995126182930990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txt1_head_torso_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2284
+        width: 333
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5a7cc5d475bfe0800000000000000
+      internalID: -1173903666252718322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: txt1_arm_leg
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2171
+        width: 579
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831c4c181003baf0800000000000000
+      internalID: -381961439842397309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

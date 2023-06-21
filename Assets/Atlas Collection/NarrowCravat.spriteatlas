@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NarrowCravat
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+    - {fileID: 2800000, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+    - {fileID: 2800000, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -6821141691017756748, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -7468501495584770205, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -7214461638472664022, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: 3180839925885917303, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -6457154611101189172, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: 6200519763566816875, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: 4226469523252776934, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -4577713344072857331, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: 8524278301856196547, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: 4153910650829394722, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -6148025433427471308, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -7098428334136041789, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: 4585307325553147918, guid: 4b971101e0f42a041b684b3d3dc46cb1, type: 3}
+  - {fileID: -401158936310858091, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: -8296988124517174285, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: 3102596246066159012, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: -1526238618819201571, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: -7731573604320350938, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: -3490525201140655888, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: 3406387957937379995, guid: a244586cfb2d1ea47bc525d73a99f6c8, type: 3}
+  - {fileID: -8575658279663475127, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: 893078937621518683, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: -5874948841897528066, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: -7547005625759871044, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: 29053997631559275, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: 8725163022204452216, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: -5445537094730320320, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: -5470717715182138303, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  - {fileID: -7843063031667948282, guid: d4fa205e085d8d344a1bbcf878c77cf2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1stFold_Cravat_9
+  - 1stFold_Cravat_8
+  - 1stFold_Cravat_7
+  - 1stFold_Cravat_6
+  - 1stFold_Cravat_5
+  - 1stFold_Cravat_4
+  - 1stFold_Cravat_3
+  - 1stFold_Cravat_2
+  - 1stFold_Cravat_1
+  - 1stFold_Cravat_0
+  - 1stFold_Cravat_12
+  - 1stFold_Cravat_10
+  - 1stFold_Cravat_11
+  - 3rdFold_Cravat_4
+  - 3rdFold_Cravat_5
+  - 3rdFold_Cravat_6
+  - 3rdFold_Cravat_0
+  - 3rdFold_Cravat_1
+  - 3rdFold_Cravat_2
+  - 3rdFold_Cravat_3
+  - 2ndFold_Cravat_3
+  - 2ndFold_Cravat_2
+  - 2ndFold_Cravat_1
+  - 2ndFold_Cravat_0
+  - 2ndFold_Cravat_7
+  - 2ndFold_Cravat_6
+  - 2ndFold_Cravat_5
+  - 2ndFold_Cravat_4
+  - 2ndFold_Cravat_8
+  m_RenderDataMap: {}
+  m_Tag: NarrowCravat
+  m_IsVariant: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b902f3c8a8131541985ca49caefe68d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Simple Tech Bold 02
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 440b897efba693f4a9da1e363171fd5b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

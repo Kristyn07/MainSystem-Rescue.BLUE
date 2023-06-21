@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 94365311520677945b33a8cb92649e24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -812840359910851455
+    second: CravatFolding_Frame_06
+  - first:
+      213: 6298294331500963613
+    second: CravatFolding_Frame_01
+  - first:
+      213: -1546923831982433364
+    second: CravatFolding_Frame_07
+  - first:
+      213: 4002195372210610092
+    second: CravatFolding_Frame_02
+  - first:
+      213: 4202751073864244883
+    second: CravatFolding_Frame_08
+  - first:
+      213: 3566420147654141178
+    second: CravatFolding_Frame_03
+  - first:
+      213: -4268254513503119382
+    second: CravatFolding_Frame_09
+  - first:
+      213: -870214964241991078
+    second: CravatFolding_Frame_04
+  - first:
+      213: -4034055663397406796
+    second: CravatFolding_Frame_010
+  - first:
+      213: -4575406463290345510
+    second: CravatFolding_Frame_05
+  - first:
+      213: 9077287729187353850
+    second: CravatFolding_Frame_011
+  - first:
+      213: -8125229649753619653
+    second: CravatFolding_Frame_012
+  - first:
+      213: 2876632760285806581
+    second: CravatFolding_Frame_013
+  - first:
+      213: -1528412663397731538
+    second: CravatFolding_Frame_014
+  - first:
+      213: -4570590540093947325
+    second: CravatFolding_Frame_015
+  - first:
+      213: 9092434291250202650
+    second: CravatFolding_Frame_016
+  - first:
+      213: -7136881933969643073
+    second: CravatFolding_Frame_020
+  - first:
+      213: -1529775303782006817
+    second: CravatFolding_Frame_021
+  - first:
+      213: 5088185120177129524
+    second: CravatFolding_Frame_017
+  - first:
+      213: 664984650761450951
+    second: CravatFolding_Frame_018
+  - first:
+      213: 1355975671630417123
+    second: CravatFolding_Frame_019
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CravatFolding_Frame_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3146
+        width: 1991
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cb960dff538b4f0800000000000000
+      internalID: -812840359910851455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4152
+        width: 1993
+        height: 982
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a8ff1359086750800000000000000
+      internalID: 6298294331500963613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_07
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3146
+        width: 1993
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd91488f8388ae0800000000000000
+      internalID: -1546923831982433364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_02
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4152
+        width: 1995
+        height: 982
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf535a8c77aa8730800000000000000
+      internalID: 4002195372210610092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_08
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 3146
+        width: 1992
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed115a5db235a30800000000000000
+      internalID: 4202751073864244883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_03
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 4152
+        width: 1994
+        height: 982
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4a8b48a387e7130800000000000000
+      internalID: 3566420147654141178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_09
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3146
+        width: 1993
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae750b7522d14c4c0800000000000000
+      internalID: -4268254513503119382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_04
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 4152
+        width: 1995
+        height: 982
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7022c9106ce3f0800000000000000
+      internalID: -870214964241991078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_010
+      rect:
+        serializedVersion: 2
+        x: 8216
+        y: 3146
+        width: 1994
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77b0b5fb72408c0800000000000000
+      internalID: -4034055663397406796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_05
+      rect:
+        serializedVersion: 2
+        x: 8216
+        y: 4151
+        width: 1994
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad77d8c2014e080c0800000000000000
+      internalID: -4575406463290345510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2125
+        width: 1988
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4793e981109fd70800000000000000
+      internalID: 9077287729187353850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_012
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2125
+        width: 1990
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c6ffcea26d3f80800000000000000
+      internalID: -8125229649753619653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_013
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 2125
+        width: 1990
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff3612214adbe720800000000000000
+      internalID: 2876632760285806581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_014
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 2125
+        width: 1990
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2338ffc7ccf9cae0800000000000000
+      internalID: -1528412663397731538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_015
+      rect:
+        serializedVersion: 2
+        x: 8215
+        y: 2125
+        width: 1998
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34280fbae100290c0800000000000000
+      internalID: -4570590540093947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1075
+        width: 1993
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a188c8960d0de2e70800000000000000
+      internalID: 9092434291250202650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_020
+      rect:
+        serializedVersion: 2
+        x: 8215
+        y: 1078
+        width: 1999
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb926d1a1b3b4fc90800000000000000
+      internalID: -7136881933969643073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_021
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 1996
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf78ef577525cae0800000000000000
+      internalID: -1529775303782006817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_017
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1075
+        width: 1995
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438069f886ddc9640800000000000000
+      internalID: 5088185120177129524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_018
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1075
+        width: 1994
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c539b144008a3900800000000000000
+      internalID: 664984650761450951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CravatFolding_Frame_019
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 1075
+        width: 1995
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4a9760b461d210800000000000000
+      internalID: 1355975671630417123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
